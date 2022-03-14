@@ -1,8 +1,8 @@
 {
-  'addresses':[
+  "addresses":[
     {
-     'id':1,
-     'location':http://65.21.126.160:22222'
+     "id":1,
+     "location":"http://65.21.126.160:22222"
     }
   ]
 }
